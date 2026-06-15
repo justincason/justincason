@@ -1,12 +1,12 @@
 ## What's up! I'm Justin 👽
 
-- 🧠 **What I build:** [Web apps]
+- 🧠 **What I build:** Web apps
 
-- 🎨 **What I care about:** [I'm not for sure yet. I will update this when I find out 😆]
+- 🎨 **What I care about:** I'm not for sure yet. I will update this when I find out 😆
 
-- 🧩 **Tech I'm currently using:** [HTML, CSS, JavaScript]
+- 🧩 **Tech I'm currently using:** HTML, CSS, JavaScript
 
-- 🚀 **Fun fact:** [I'd rather watch a movie over a t.v series... Some t.v series will get me hooked, but most won't these days.]
+- 🚀 **Fun fact:** I'd rather watch a movie over a t.v series... Some t.v series will get me hooked, but most won't these days.
 
 ### 🛠️ My Toolkit
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
