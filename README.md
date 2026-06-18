@@ -27,15 +27,6 @@
 
 ---
 
-## Projects
-
-| | |
-|---|---|
-| <br>**[Project Name 1](https://github.com/yourusername/project1)** <img src="https://img.icons8.com/?size=120&id=4564MUHGIIbe&format=png" alt="Icon" width="18" /><br><br>[Brief description of what your project does and why you built it]<br><br><sub>[Tech Stack - e.g., React • Node.js • MongoDB]</sub><br><br> | <br>**[Project Name 2](https://github.com/yourusername/project2)** <img src="https://img.icons8.com/?size=96&id=kI89qXDv4f5O&format=png" alt="Icon" width="18" /><br><br>[Brief description of what your project does and why you built it]<br><br><sub>[Tech Stack - e.g., Python • FastAPI • PostgreSQL]</sub><br><br> |
-| | |
-
 ### 💬 Let's Connect!
 
 Feel free to reach out if you want to collaborate on a project, talk about web development, open source, etc., or just chat about code!
-
-![Profile Views](https://komarev.com/ghpvc/?username=justincason&color=blueviolet)
