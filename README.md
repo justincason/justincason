@@ -6,8 +6,7 @@
 
 - 🧩 **Tech I'm currently using:** HTML, CSS, JavaScript
 
-- 🚀 **Fun fact:** I'd rather watch a movie over a t.v series... Some t.v series will get me hooked, but most won't these days.
-
+- 🚀 **Currently Watching:** LandMan
 ### 🛠️ My Toolkit
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
